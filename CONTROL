@@ -1,0 +1,5 @@
+Package: listusb
+Version: 0.0.1
+Architecture: all
+Maintainer: Francisco Leite <frande@uol.com.br>
+Description: Custom listusb Package
